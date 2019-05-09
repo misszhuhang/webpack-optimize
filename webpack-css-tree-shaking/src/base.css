@@ -1,0 +1,15 @@
+html {
+  background: red;
+}
+.a {
+  height: 200px;
+  width: 200px;
+  border-radius: 3px;
+  background: green;
+}
+.b {
+  height: 300px;
+  width: 300px;
+  border-radius: 5px;
+  background: red;
+}
